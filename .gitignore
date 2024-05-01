@@ -1,0 +1,13 @@
+### IntelliJ IDEA ###
+*.iws
+*.iml
+*.ipr
+
+### Windows OS ###
+/.idea/
+
+### Mac OS ###
+\.idea\
+.DS_Store
+*DS_Store
+*/DS_Store
